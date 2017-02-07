@@ -1,5 +1,5 @@
 # Interface-for-stockfishjs
-Chess graphical user interface for stockfish.js with sound, PGN Notation, FEN, Score, bestmove.
+Chess graphical user interface for stockfish.js with Sound, PGN Notation, FEN, Score, Bestmove.
 
 # DEMO: http://netreal.de/Interface-for-stockfishjs/   
 
